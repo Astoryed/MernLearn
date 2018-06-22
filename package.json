@@ -1,0 +1,15 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "learning mern stack developement",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Astoryed Mughal",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
